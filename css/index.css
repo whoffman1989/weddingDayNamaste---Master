@@ -43,6 +43,14 @@ html {
     font-size: 1em;
 }
 
+.welcome-contact {
+    padding-top: 1em;
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    padding-top: 250px;
+}
+
 /* Footer */
 
 footer {
@@ -89,6 +97,14 @@ a:hover {
     .welcome-about {
         font-size: 2em;
         padding-top: 4em;
+    }
+
+    .welcome-contact {
+        padding-top: 4.5em;
+    }
+
+    .welcome-quote-contact {
+        padding-top: 1em;
     }
 
 }
