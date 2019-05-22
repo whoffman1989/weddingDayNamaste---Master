@@ -1,0 +1,48 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Indie Flower', cursive;
+}
+
+.bg {
+    background-image: url("../images/woman-doing-yoga-at-sunset.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Navbar */
+
+.navbar-brand {
+    font-size: 3em;
+}
+
+.nav-item {
+    font-size: 1.5em;
+}
+
+/* Welcome */
+
+.welcome {
+    text-align: center;
+    padding: 150px 0;
+    font-size: 3em;
+    color: white;
+}
+
+.welcome-quote {
+    font-size: .4em;
+}
+
+/* Footer */
+
+footer {
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
