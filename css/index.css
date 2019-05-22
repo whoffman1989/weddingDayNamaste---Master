@@ -64,7 +64,12 @@ p.footer_margin {
     }
 
     .bg {
-        background-position-x: -20em;
+        background-position-x: -15em;
+    }
+
+    .welcome {
+        padding-top: 3em;
+        padding-bottom: .5em;
     }
 }
 
