@@ -45,6 +45,9 @@ footer {
     text-align: center;
     color: white;
     background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .social-icon {
